@@ -50,9 +50,11 @@ Date of create: 28.11.2025
 - gsutil cp gs://lab1-bucket-itmo/pic1.jpg /root/lab1/
 - gsutil cp gs://lab1-bucket-itmo/pic2.jpg /root/lab1/
 - gsutil cp gs://lab1-bucket-itmo/pic3.jpeg /root/lab1/
+
 ![cp](img/comet_INfSx8F5kD.png)
 
 6. Cоздание директории и вывод ошибки Permission denied при попытке создать каталог в `/viewer` после изменения прав доступа на Compute Viewer.
+
 ![error](img/comet_uiRne10nKv.png)
 
 ### 5. Очистка ресурсов
